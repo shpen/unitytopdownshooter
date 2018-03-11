@@ -18,7 +18,7 @@
         <entry file="file://$PROJECT_DIR$/Assets/CameraFollow.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="72">
-              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding>
                 <marker date="1520724797950" expanded="true" signature="62:386" ph="{...}" />
                 <marker date="1520724797950" expanded="true" signature="199:239" ph="{...}" />
@@ -38,11 +38,46 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PlayerController.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="EnemyController.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/EnemyController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="16" column="38" lean-forward="true" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+              <folding>
+                <marker date="1520726179502" expanded="true" signature="6:100" ph="..." />
+                <marker date="1520726179502" expanded="true" signature="188:521" ph="{...}" />
+                <marker date="1520726179502" expanded="true" signature="300:404" ph="{...}" />
+                <marker date="1520726179502" expanded="true" signature="459:519" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GameObject.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D290425A-E4B3-4E49-A420-29F09BB3F974/bb/f5e31055/GameObject.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="426">
+              <caret line="257" column="28" lean-forward="false" selection-start-line="257" selection-start-column="28" selection-end-line="257" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NavMeshAgent.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D290425A-E4B3-4E49-A420-29F09BB3F974/07/76f15483/NavMeshAgent.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="426">
+              <caret line="278" column="16" lean-forward="false" selection-start-line="278" selection-start-column="16" selection-end-line="278" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PlayerController.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/PlayerController.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="540">
-              <caret line="30" column="30" lean-forward="true" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
+              <caret line="30" column="30" lean-forward="false" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
               <folding>
                 <marker date="1520722987482" expanded="true" signature="6:78" ph="..." />
                 <marker date="1520722987482" expanded="true" signature="174:1029" ph="{...}" />
@@ -51,22 +86,6 @@
                 <marker date="1520722987482" expanded="true" signature="652:772" ph="{...}" />
                 <marker date="1520722987482" expanded="true" signature="727:768" ph="{...}" />
                 <marker date="1520722987482" expanded="true" signature="946:1024" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PlayerMotor.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/PlayerMotor.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="20" column="36" lean-forward="false" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
-              <folding>
-                <marker date="1520720027360" expanded="true" signature="6:100" ph="..." />
-                <marker date="1520720027360" expanded="true" signature="184:448" ph="{...}" />
-                <marker date="1520720027360" expanded="true" signature="263:307" ph="{...}" />
-                <marker date="1520720027360" expanded="true" signature="362:369" ph="{...}" />
-                <marker date="1520720027360" expanded="true" signature="411:446" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -257,10 +276,12 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/PlayerController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/EnemyController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/Unity3DRider.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D290425A-E4B3-4E49-A420-29F09BB3F974/17/8214872c/CharacterController.cs" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Assets/PlayerMotor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D290425A-E4B3-4E49-A420-29F09BB3F974/07/76f15483/NavMeshAgent.cs" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Assets/CameraFollow.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D290425A-E4B3-4E49-A420-29F09BB3F974/bb/f5e31055/GameObject.cs" root0="SKIP_INSPECTION" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -268,6 +289,7 @@
         <option value="$PROJECT_DIR$/Assets/PlayerMotor.cs" />
         <option value="$PROJECT_DIR$/Assets/PlayerController.cs" />
         <option value="$PROJECT_DIR$/Assets/CameraFollow.cs" />
+        <option value="$PROJECT_DIR$/Assets/EnemyController.cs" />
       </list>
     </option>
   </component>
@@ -369,12 +391,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1520718882458</updated>
-      <workItem from="1520718884778" duration="5933000" />
+      <workItem from="1520718884778" duration="6769000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5933000" />
+    <option name="totallyTimeSpent" value="6769000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -600,13 +622,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="20" column="36" lean-forward="false" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
-          <folding>
-            <marker date="1520720027360" expanded="true" signature="6:100" ph="..." />
-            <marker date="1520720027360" expanded="true" signature="184:448" ph="{...}" />
-            <marker date="1520720027360" expanded="true" signature="263:307" ph="{...}" />
-            <marker date="1520720027360" expanded="true" signature="362:369" ph="{...}" />
-            <marker date="1520720027360" expanded="true" signature="411:446" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -621,7 +637,7 @@
     <entry file="file://$PROJECT_DIR$/Assets/CameraFollow.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding>
             <marker date="1520724797950" expanded="true" signature="62:386" ph="{...}" />
             <marker date="1520724797950" expanded="true" signature="199:239" ph="{...}" />
@@ -633,7 +649,7 @@
     <entry file="file://$PROJECT_DIR$/Assets/PlayerController.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
-          <caret line="30" column="30" lean-forward="true" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
+          <caret line="30" column="30" lean-forward="false" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
           <folding>
             <marker date="1520722987482" expanded="true" signature="6:78" ph="..." />
             <marker date="1520722987482" expanded="true" signature="174:1029" ph="{...}" />
@@ -642,6 +658,35 @@
             <marker date="1520722987482" expanded="true" signature="652:772" ph="{...}" />
             <marker date="1520722987482" expanded="true" signature="727:768" ph="{...}" />
             <marker date="1520722987482" expanded="true" signature="946:1024" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D290425A-E4B3-4E49-A420-29F09BB3F974/07/76f15483/NavMeshAgent.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="278" column="16" lean-forward="false" selection-start-line="278" selection-start-column="16" selection-end-line="278" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D290425A-E4B3-4E49-A420-29F09BB3F974/bb/f5e31055/GameObject.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="257" column="28" lean-forward="false" selection-start-line="257" selection-start-column="28" selection-end-line="257" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/EnemyController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="38" lean-forward="true" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+          <folding>
+            <marker date="1520726179502" expanded="true" signature="6:100" ph="..." />
+            <marker date="1520726179502" expanded="true" signature="188:521" ph="{...}" />
+            <marker date="1520726179502" expanded="true" signature="300:404" ph="{...}" />
+            <marker date="1520726179502" expanded="true" signature="459:519" ph="{...}" />
           </folding>
         </state>
       </provider>
