@@ -18,4 +18,12 @@ public class EnemyController : MonoBehaviour {
 	void Update () {
 		_navAgent.SetDestination(_player.transform.position);
 	}
+
+	void OnCollisionEnter(Collision other) {
+		Debug.Log("tag: " + other.gameObject.tag);
+		if (other.gameObject.CompareTag("PlayerBullet")) {
+			Debug.Log("destroy enemy");
+			Destroy(gameObject);
+		}
+	}
 }
